@@ -5,7 +5,7 @@
       - Made an Emulator
       - Have experince with coding
       - Have experince of ROM Hacks and Homebrew.
-- ❓ The reason I am doing this is because I don't have expreince with emulating, I also don't have XP for Homebrew.
+- ❓ The reason I am doing this is because I don't have XP with emulating, I also don't have XP for Homebrew.
 
 https://captain-crumbs-website.captaincrumb999.repl.co/
 
